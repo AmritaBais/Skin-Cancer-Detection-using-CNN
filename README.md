@@ -1,0 +1,2 @@
+# Skin-Cancer-Detection-using-CNN
+Melanoma is special type of Skin Cancer, the early detection of which can save thousands of Life. I have built a Deep Learning Model, which can predict Melanoma case. Tensorflow and Keras framework have been used. The model is being trained on CNN. for the better Learning Data Augmentation has been used. In order to achieve better prediction result hyper parameter tuning has been done.
